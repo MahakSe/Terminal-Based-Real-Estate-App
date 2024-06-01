@@ -1,0 +1,18 @@
+1;mahak;mahsa
+2;mahak;mahsa
+3;parvin;mahak
+4;parvin;mahsa
+5;ali;mahak
+6;parvin;mahsa
+7;mahak;mahsa
+8;ali;mahak
+9;mahsa;mahak
+10;mahak;lisA
+11;mahak;mahsa
+12;mahak;mahsa
+13;mahak;SARA
+14;ali;samin
+15;parvin;mahak
+16;mahak;hamed 12
+17;ali;*mary
+18;mahsa;mahak

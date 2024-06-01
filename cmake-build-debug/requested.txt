@@ -1,0 +1,42 @@
+-1;beach house;100;21;1000000;nice garden, two bedrooms;1300000;0;mahak
+1;Beachfront Paradise;100;21;1000000;Spectacular two-bedroom beach house with a beautiful garden. Enjoy the serene ocean view from your doorstep. Unbeatable price for this coastal gem!;950000;0;mahak
+-1;Seaside Retreat;150;12;750000;Charming two-bedroom beach house with a spacious garden,perfect for relaxation.Located in a peaceful district,this is a steal at this price!;700000;0;mahak
+-1;Ocean View Hideaway;80;17;850000;Elegant two-bedroom house with stunning ocean views. Immaculate garden, perfect for entertaining. Don't miss out on this coastal retreat!;800000;0;mahak
+-1;Sunny Beach Cottage;120;8;600000;Cozy two-bedroom cottage with a sunny disposition. Lovely garden space for outdoor activities. Affordable luxury in a prime district!;550000;0;mahak
+-1;Tranquil Coastal Haven;90;23;1200000;Spacious two-bedroom home with a tranquil garden. Breathtaking views in a desirable district. Priced to sell quickly!;1150000;0;mahak
+-1;Seaview Retreat;110;14;950000;Impeccable two-bedroom house with panoramic sea views. Well-maintained garden, perfect for relaxation. A dream home in a prime location!;900000;0;parvin
+-1;Beachfront Bliss;70;20;1500000;Luxurious two-bedroom beach house with a meticulously landscaped garden. Unmatched beauty in a sought-after district. Incredible value!;1450000;0;parvin
+-1;Coastal Serenity;100;18;780000;Serene two-bedroom retreat with a lush garden. Nestled in a peaceful district, this home offers tranquility and comfort. Great price for a quick sale!;730000;0;ali
+-1;Sun-Kissed Villa;130;10;1100000;Bright two-bedroom villa with a sun-kissed garden. Located in a prime district, this home exudes warmth and charm. Your dream home awaits!;1050000;0;ali
+-1;Sandy Shores Oasis;85;22;720000;Quaint two-bedroom oasis with a sandy shores garden. Ideal for those who appreciate coastal living. Unbeatable price for this gem!;670000;0;ali
+-1;Coastal Elegance;95;15;850000;Elegant two-bedroom residence with a meticulously landscaped garden. Unparalleled beauty in a desirable district. Exceptional value for coastal living!;800000;0;parvin
+-1;Golf Course Villa;115;18;780000;Elegant two-bedroom villa overlooking the golf course. Landscaped garden for leisure. Ideal for golf enthusiasts. Priced to sell quickly!;1057500;0;mahsa
+-1;Beachfront Retreat;110;16;780000;Serene two-bedroom retreat with a lush garden. Nestled in a peaceful district, offering tranquility and comfort.;730000;0;mahak
+-1;Seaside Serenade;95;14;850000;Elegant two-bedroom residence with stunning ocean views. Well-maintained garden, perfect for relaxation.;800000;0;mahak
+-1;Serenity by the Sea;85;22;720000;Quaint two-bedroom oasis with a sandy shores garden. Ideal for those who appreciate coastal living.;670000;0;ali
+-1;Tranquil Coastal Retreat;130;12;1100000;Spacious two-bedroom home with a tranquil garden. Breathtaking views in a desirable district.;1050000;0;parvin
+-1;Beachfront Bliss;100;20;1500000;Luxurious two-bedroom beach house with meticulous landscaping. Unmatched beauty in a sought-after district.;1450000;0;parvin
+-1;Sunny Seaview Haven;110;8;950000;Bright two-bedroom house with panoramic sea views. Immaculate garden for outdoor enjoyment.;900000;0;ali
+-1;Cozy Coastal Cottage;80;18;600000;Cozy two-bedroom cottage with a garden. Perfect for those seeking a peaceful coastal retreat.;550000;0;mahsa
+-1;Seaside Escape;120;15;850000;Charming beach house with a spacious garden and two bedrooms. Ideal for relaxation and coastal living.;800000;0;mahak
+-1;Sunset Villa;90;10;750000;Stunning two-bedroom villa with breathtaking sunset views. A perfect blend of luxury and tranquility.;700000;0;ali
+-1;Oceanfront Paradise;150;5;1200000;Luxurious beachfront property with a lush garden. Unmatched beauty in a prime district.;1150000;0;parvin
+-1;Tranquil Coastal Haven;90;23;1200000;Spacious two-bedroom home with a tranquil garden. Breathtaking views in a desirable district. Priced to sell quickly!;1150000;0;mahsa
+-1;Seaside Escape;120;15;850000;Charming beach house with a spacious garden and two bedrooms. Ideal for relaxation and coastal living.;800000;0;maryam t
+-1;Sunset Villa;90;10;750000;Stunning two-bedroom villa with breathtaking sunset views. A perfect blend of luxury and tranquility.;700000;0;ali
+-1;Oceanfront Paradise;150;5;1200000;Luxurious beachfront property with a lush garden. Unmatched beauty in a prime district.;1150000;0;ali
+-1;Cozy Coastal Cottage;80;18;600000;Cozy two-bedroom cottage with a garden. Perfect for those seeking a peaceful coastal retreat.;550000;0;parvin
+-1;Sunny Seaview Haven;110;8;950000;Bright two-bedroom house with panoramic sea views. Immaculate garden for outdoor enjoyment.;900000;0;parvin
+-1;Beachfront Bliss;100;20;1500000;Luxurious two-bedroom beach house with meticulous landscaping. Unmatched beauty in a sought-after district.;1450000;0;mania.sa
+-1;Tranquil Coastal Retreat;130;12;1100000;Spacious two-bedroom home with a tranquil garden. Breathtaking views in a desirable district.;1050000;0;mania.sa
+-1;Serenity by the Sea;85;22;720000;Quaint two-bedroom oasis with a sandy shores garden. Ideal for those who appreciate coastal living.;670000;0;mahak
+-1;Seaside Serenade;95;14;850000;Elegant two-bedroom residence with stunning ocean views. Well-maintained garden, perfect for relaxation.;800000;0;maryam t
+-1;Beachfront Retreat;110;16;780000;Serene two-bedroom retreat with a lush garden. Nestled in a peaceful district, offering tranquility and comfort.;730000;0;mania.sa
+-1;Oceanview Oasis;90;15;1200000; Luxurious two-bedroom residence with breathtaking ocean views. Beautifully landscaped garden for ultimate relaxation.;907142;0;mania.sa
+-1;Seaside Charm Cottage;80;23;600000;Cozy two-bedroom cottage with a charming garden. Perfect for a romantic getaway by the sea.;1020000;0;lisA
+-1;Tranquil Seaside Sanctuary ;120;21;1100000;Tranquil two-bedroom sanctuary with a lush seaside garden. Unwind in the beauty of coastal living.;941250;0;SARA
+-1;Serene Retreat in the Woods;125;25;550000; Escape the hustle and bustle with this charming 3-bedroom, 2-bathroom home nestled in the heart of nature. Enjoy the peaceful surroundings, large windows for natural light, and a spacious deck perfect for morning coffees or evening stargazing.;862000;0;hamed 12
+-1;Modern Elegance in Urban Living;160;11;750000;Embrace the city lifestyle in this sleek and sophisticated 2-bedroom, 2.5-bathroom condominium. With high-end finishes, an open floor plan, and panoramic city views, this is urban living at its finest.;750000;0;Aten
+-1;Mountain Retreat;200;18;1800000;Elegant five-bedroom home nestled in the mountains. Panoramic views and a peaceful atmosphere.;1031666;0;mahak
+-1;Urban Chic Loft;90;8;800000;Modern one-bedroom loft in the heart of the city. Stylish design, close to amenities and entertainment.;907000;0;saina
+-1;Rustic Charm Farmhouse;160;25;510000;Embrace the warmth of rural living in this rustic farmhouse nestled in the Countryside Haven. With 167.23 sq. meters of cozy interiors, expansive land, and pastoral views, this home is priced at $400,000 for those yearning for a simpler and idyllic lifestyle.;550000;0;*mary

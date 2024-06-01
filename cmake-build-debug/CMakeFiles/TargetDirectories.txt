@@ -1,0 +1,3 @@
+D:/uni/term 3/Pishrafteh/Codes/Project/cmake-build-debug/CMakeFiles/Project.dir
+D:/uni/term 3/Pishrafteh/Codes/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/uni/term 3/Pishrafteh/Codes/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

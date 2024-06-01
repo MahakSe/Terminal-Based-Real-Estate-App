@@ -1,0 +1,21 @@
+# ninja log v5
+1	99	7281720662099771	CMakeFiles/Project.dir/main.cpp.obj	6291dcc3720c0449
+151	240	7281720663520008	Project.exe	355499a9b0ad083
+6	151	7281720662733533	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+4	392	7282975625542851	CMakeFiles/Project.dir/main.cpp.obj	6291dcc3720c0449
+47	405	7282975625699117	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+405	837	7282975629932452	Project.exe	355499a9b0ad083
+3	220	7282996018994506	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+221	383	7282996020412879	Project.exe	355499a9b0ad083
+4	226	7282998517191622	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+227	358	7282998518457382	Project.exe	355499a9b0ad083
+1	155	7283113932297920	CMakeFiles/Project.dir/main.cpp.obj	6291dcc3720c0449
+26	165	7283113932297920	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+165	301	7283113933722754	Project.exe	355499a9b0ad083
+2	138	7283133449726521	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+138	212	7283133450509677	Project.exe	355499a9b0ad083
+1	119	7283137197781682	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+119	193	7283137198566887	Project.exe	355499a9b0ad083
+2	83	7283137660153145	CMakeFiles/Project.dir/main.cpp.obj	6291dcc3720c0449
+7	134	7283137660785368	CMakeFiles/Project.dir/functionImplementation.cpp.obj	a598308382dec2a4
+134	206	7283137661415383	Project.exe	355499a9b0ad083
